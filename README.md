@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pepinovimr
-- 👀 I’m interested in mostly C#
-- 🌱 I’m currently learning C#, HTML, CSS
+- 👀 I’m interested in mostly C#, WPF, MVVM, etc..
 - 📫 How to reach me -> via email - pepino.vimr@seznam.cz
 
 <!---
